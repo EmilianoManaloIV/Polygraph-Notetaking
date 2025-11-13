@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "0c991ac056919a62",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1a83dd7e782f3da9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
         "id": "4cabe2e3a9216557",
         "type": "tabs",
         "children": [
@@ -32,8 +16,37 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "94101aea6a0cb537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polymath Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polymath Notes"
+            }
+          },
+          {
+            "id": "7f21e482266650f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polymath Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polymath Notes"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,8 +206,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7b772e732fdeeeb",
+  "active": "7f21e482266650f4",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/Best_practices_or_oganization_model_for_their_notes_as_a@20251111_123732.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Polymath Notes.md",
     "Welcome.md",
     "create a link.md"
   ]
