@@ -11,21 +11,24 @@
             "id": "4b404980a940c580",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Polymath Note Hub/Learning Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "Polymath Note Hub/Landing Page.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Learning Board"
+              "icon": "lucide-file",
+              "title": "Landing Page"
             }
           }
         ]
@@ -197,21 +200,21 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
-      "periodic-notes:Open this week": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "4b404980a940c580",
   "lastOpenFiles": [
+    "Polymath Note Hub/Multi-Media/Drawing 2025-11-22 20.57.29.excalidraw.md",
+    "Polymath Note Hub/Notes/Untitled Kanban.md",
+    "Polymath Note Hub/Notes/Untitled Diagram.svg",
+    "Polymath Note Hub/Landing Page.md",
+    "Polymath Note Hub/Projects.md",
+    "Polymath Note Hub/Learning Board.md",
     "Polymath Note Hub/Notes/Obsidian Notetaking Efficiency.md",
     "Polymath Note Hub/Templates/Note Template.md",
-    "Polymath Note Hub/Landing Page.md",
-    "Polymath Note Hub/Learning Board.md",
-    "Polymath Note Hub/Projects.md",
     "Polymath Note Hub/Multi-Media/Lola & Lolo House 3D Model @{2025-11-30}.md",
     "Polymath Note Hub/Multi-Media/Drawing 2025-11-22 20.15.06.excalidraw.md",
-    "Polymath Note Hub/Notes/Untitled Kanban.md",
     "Polymath Note Hub/Notes/Untitled.md",
     "Excalidraw/Drawing 2025-11-22 20.12.35.excalidraw.md",
     "Excalidraw",
@@ -231,8 +234,6 @@
     "Polymath Note Hub/Yes.md",
     "Polymath Note Hub/Mi.md",
     "2025-11-22.md",
-    "Polymath Note Hub/Templates/Yearly Note Template.md",
-    "Polymath Note Hub/Templates/Monthly Note Template.md",
     "Untitled Diagram.svg",
     "Polymath Note Hub/Templates",
     "Polymath Note Hub/Polynotes/Yearly Notes",
