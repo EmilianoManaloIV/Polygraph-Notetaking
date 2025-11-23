@@ -2,5 +2,11 @@
   "drawio-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-latex-suite",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-kanban",
+  "obsidian-tasks-plugin",
+  "periodic-notes",
+  "calendar",
+  "templater-obsidian",
+  "dataview"
 ]

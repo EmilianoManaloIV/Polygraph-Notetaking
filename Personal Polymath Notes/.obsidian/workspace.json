@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4cabe2e3a9216557",
+        "id": "9b6160c6df6ba078",
         "type": "tabs",
         "children": [
           {
-            "id": "f4ad462c795195a2",
+            "id": "4b404980a940c580",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Polymath Note Hub/Landing Page.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Landing Page"
             }
           }
         ]
@@ -156,13 +170,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8005c51fb1afd03d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 378.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,30 +198,51 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "f4ad462c795195a2",
+  "active": "d7b772e732fdeeeb",
   "lastOpenFiles": [
-    "Polymath Notes.md",
-    "copilot/copilot-conversations/Best_practices_or_oganization_model_for_their_notes_as_a@20251111_123732.md",
-    "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "Welcome.md",
-    "create a link.md"
+    "Polymath Note Hub/Learning Board.md",
+    "Polymath Note Hub/Landing Page.md",
+    "Polymath Note Hub/Templates/Note Template.md",
+    "Polymath Note Hub/Notes/Untitled.md",
+    "Polymath Note Hub/Notes/2025-11-22.md",
+    "Polymath Note Hub/Notes/TestFile.md",
+    "Polymath Note Hub/Notes",
+    "Untitled.md",
+    "Polymath Note Hub/Graph Theory.md",
+    "Polymath Note Hub/Minecraft.md",
+    "Polymath Note Hub/CPSC-362 Software Engineering.md",
+    "Polymath Note Hub/General Computing.md",
+    "Polymath Note Hub/Test Note.md",
+    "Polymath Note Hub/Annotation Test.md",
+    "Polymath Note Hub/Linear Algebra.md",
+    "Polymath Note Hub/Templates/Untitled.md",
+    "Polymath Note Hub/Templates/General Notes Template.md",
+    "Polymath Note Hub/Yes.md",
+    "Polymath Note Hub/Mi.md",
+    "2025-11-22.md",
+    "Polymath Note Hub/Templates/Yearly Note Template.md",
+    "Polymath Note Hub/Templates/Monthly Note Template.md",
+    "Polymath Note Hub/Templates/Daily Note Template.md",
+    "Polymath Note Hub/Templates/Quarterly Note Template.md",
+    "Polymath Note Hub/Templates/Weekly Note Template.md",
+    "Polymath Note Hub/Polynotes/Daily Notes/Daily Note Database.md",
+    "Polymath Note Hub/Polynotes/Weekly Notes/Weekly Note Database.md",
+    "Untitled Diagram.svg",
+    "Polymath Note Hub/Templates",
+    "Polymath Note Hub/Polynotes/Yearly Notes",
+    "Polymath Note Hub/Polynotes/Quarterly Notes",
+    "Polymath Note Hub/Polynotes/Yearly Notes",
+    "Polymath Note Hub/Polynotes/Monthly Notes",
+    "Polymath Note Hub/Polynotes/Weekly Notes/Untitled",
+    "Polymath Note Hub/Polynotes/Weekly Notes",
+    "Polymath Note Hub/Polynotes/Daily Notes",
+    "Polymath Note Hub/Polynotes"
   ]
 }
