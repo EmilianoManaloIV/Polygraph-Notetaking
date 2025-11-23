@@ -1,4 +1,7 @@
 {
   "propertiesInDocument": "source",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Polymath Note Hub/Notes",
+  "attachmentFolderPath": "Polymath Note Hub/Multi-Media"
 }
