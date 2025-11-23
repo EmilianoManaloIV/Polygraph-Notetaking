@@ -11,24 +11,10 @@
             "id": "4b404980a940c580",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polymath Note Hub/Landing Page.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Landing Page"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -207,9 +193,11 @@
   },
   "active": "4b404980a940c580",
   "lastOpenFiles": [
-    "Polymath Note Hub/Projects.md",
+    "Polymath Note Hub/Notes/Obsidian Notetaking Efficiency.md",
+    "Polymath Note Hub/Templates/Note Template.md",
     "Polymath Note Hub/Landing Page.md",
     "Polymath Note Hub/Learning Board.md",
+    "Polymath Note Hub/Projects.md",
     "Polymath Note Hub/Multi-Media/Lola & Lolo House 3D Model @{2025-11-30}.md",
     "Polymath Note Hub/Multi-Media/Drawing 2025-11-22 20.15.06.excalidraw.md",
     "Polymath Note Hub/Notes/Untitled Kanban.md",
@@ -217,8 +205,6 @@
     "Excalidraw/Drawing 2025-11-22 20.12.35.excalidraw.md",
     "Excalidraw",
     "Polymath Note Hub/Multi-Media",
-    "Polymath Note Hub/Templates/Note Template.md",
-    "Polymath Note Hub/Notes/2025-11-22.md",
     "Polymath Note Hub/Notes/TestFile.md",
     "Polymath Note Hub/Notes",
     "Untitled.md",

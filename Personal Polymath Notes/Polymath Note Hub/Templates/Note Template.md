@@ -7,7 +7,7 @@ NoteTags:
 
 **CONNECTION** *What Is Directly Related To This?*
 [[Landing Page]]
-**SYNTHESIS** *What Is Indirectly Related To This?*
+**SYNTHESIS** *What Is Indirectly Related To This? At Least Three Things*
 
 ****
 <% tp.file.cursor() %>

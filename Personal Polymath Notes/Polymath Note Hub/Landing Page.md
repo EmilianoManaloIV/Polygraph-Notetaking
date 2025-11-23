@@ -25,7 +25,7 @@ TABLE NoteType, NoteTags, NoteCreation
 FROM "Polymath Note Hub/Notes"
 WHERE NoteType = "Annotations"
 SORT file.ctime
-LIMIT 3
+LIMIT 5
 ```
 
 ---
@@ -35,7 +35,7 @@ TABLE NoteType, NoteTags, NoteCreation
 FROM "Polymath Note Hub/Notes"
 WHERE NoteType = "Theory"
 SORT file.ctime
-LIMIT 3
+LIMIT 5
 ```
 ---
 **Practice**
@@ -44,7 +44,7 @@ TABLE NoteType, NoteTags, NoteCreation
 FROM "Polymath Note Hub/Notes"
 WHERE NoteType = "Practice"
 SORT file.ctime
-LIMIT 3
+LIMIT 5
 ```
 ___
 **Periodic Notes**
@@ -53,5 +53,5 @@ TABLE NoteType, NoteTags, NoteCreation
 FROM "Polymath Note Hub/Notes"
 WHERE NoteType = "Daily Notes" OR "Weekly Notes" OR "Monthly Notes" OR "Quarterly Notes" OR "Yearly Notes"
 SORT file.ctime
-LIMIT 3
+LIMIT 5
 ```
