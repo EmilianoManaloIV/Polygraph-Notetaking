@@ -1,4 +1,12 @@
 ___
+**Tasks**
+```tasks
+not done
+path includes Polymath Note Hub
+sort by due
+```
+
+___
 **Most Recent Notes**
 ```dataview
 TABLE NoteType, NoteTags, NoteCreation
@@ -9,7 +17,7 @@ LIMIT 3
 ___
 ![[Learning Board]]
 ___
-![[To-Dos]]
+![[Projects]]
 ___
 **Annotations**
 ```dataview

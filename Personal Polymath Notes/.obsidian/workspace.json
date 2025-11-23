@@ -11,20 +11,24 @@
             "id": "4b404980a940c580",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Polymath Note Hub/To-Dos.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "Polymath Note Hub/Landing Page.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "To-Dos"
+              "icon": "lucide-file",
+              "title": "Landing Page"
             }
           }
         ]
@@ -201,13 +205,18 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "a99fb87d0d100119",
+  "active": "4b404980a940c580",
   "lastOpenFiles": [
-    "Polymath Note Hub/Multi-Media",
-    "Polymath Note Hub/Notes/Untitled.md",
-    "Polymath Note Hub/To-Dos.md",
+    "Polymath Note Hub/Projects.md",
     "Polymath Note Hub/Landing Page.md",
     "Polymath Note Hub/Learning Board.md",
+    "Polymath Note Hub/Multi-Media/Lola & Lolo House 3D Model @{2025-11-30}.md",
+    "Polymath Note Hub/Multi-Media/Drawing 2025-11-22 20.15.06.excalidraw.md",
+    "Polymath Note Hub/Notes/Untitled Kanban.md",
+    "Polymath Note Hub/Notes/Untitled.md",
+    "Excalidraw/Drawing 2025-11-22 20.12.35.excalidraw.md",
+    "Excalidraw",
+    "Polymath Note Hub/Multi-Media",
     "Polymath Note Hub/Templates/Note Template.md",
     "Polymath Note Hub/Notes/2025-11-22.md",
     "Polymath Note Hub/Notes/TestFile.md",
@@ -227,9 +236,6 @@
     "2025-11-22.md",
     "Polymath Note Hub/Templates/Yearly Note Template.md",
     "Polymath Note Hub/Templates/Monthly Note Template.md",
-    "Polymath Note Hub/Templates/Daily Note Template.md",
-    "Polymath Note Hub/Templates/Quarterly Note Template.md",
-    "Polymath Note Hub/Templates/Weekly Note Template.md",
     "Untitled Diagram.svg",
     "Polymath Note Hub/Templates",
     "Polymath Note Hub/Polynotes/Yearly Notes",
@@ -237,8 +243,6 @@
     "Polymath Note Hub/Polynotes/Yearly Notes",
     "Polymath Note Hub/Polynotes/Monthly Notes",
     "Polymath Note Hub/Polynotes/Weekly Notes/Untitled",
-    "Polymath Note Hub/Polynotes/Weekly Notes",
-    "Polymath Note Hub/Polynotes/Daily Notes",
-    "Polymath Note Hub/Polynotes"
+    "Polymath Note Hub/Polynotes/Weekly Notes"
   ]
 }
