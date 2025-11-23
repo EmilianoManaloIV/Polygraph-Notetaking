@@ -11,10 +11,21 @@
             "id": "4b404980a940c580",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "kanban",
+              "state": {
+                "file": "Polymath Note Hub/Learning Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Learning Board"
             }
           }
         ]
