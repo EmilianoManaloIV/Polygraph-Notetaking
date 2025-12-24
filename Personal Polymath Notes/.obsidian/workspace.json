@@ -177,8 +177,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -200,19 +200,20 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
+      "periodic-notes:Open today": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "4b404980a940c580",
   "lastOpenFiles": [
+    "Polymath Note Hub/Learning Board.md",
+    "Polymath Note Hub/Landing Page.md",
+    "Polymath Note Hub/Projects.md",
+    "Polymath Note Hub/Templates/Note Template.md",
     "Polymath Note Hub/Multi-Media/Drawing 2025-11-22 20.57.29.excalidraw.md",
     "Polymath Note Hub/Notes/Untitled Kanban.md",
     "Polymath Note Hub/Notes/Untitled Diagram.svg",
-    "Polymath Note Hub/Landing Page.md",
-    "Polymath Note Hub/Projects.md",
-    "Polymath Note Hub/Learning Board.md",
     "Polymath Note Hub/Notes/Obsidian Notetaking Efficiency.md",
-    "Polymath Note Hub/Templates/Note Template.md",
     "Polymath Note Hub/Multi-Media/Lola & Lolo House 3D Model @{2025-11-30}.md",
     "Polymath Note Hub/Multi-Media/Drawing 2025-11-22 20.15.06.excalidraw.md",
     "Polymath Note Hub/Notes/Untitled.md",
