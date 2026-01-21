@@ -78,9 +78,63 @@
               "icon": "lucide-file",
               "title": "CPSC 223P - Introduction"
             }
+          },
+          {
+            "id": "65ea1c600335f1c6",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Personal Polymath Notes/Polymath Note Hub/Projects.md",
+                "bFile": "Personal Polymath Notes/Polymath Note Hub/Projects.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Projects"
+            }
+          },
+          {
+            "id": "e04306c05ccad0bb",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Personal Polymath Notes/Polymath Note Hub/Projects.md",
+                "bFile": "Personal Polymath Notes/Polymath Note Hub/Projects.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Projects"
+            }
+          },
+          {
+            "id": "169a5c1a34b46a4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -253,8 +307,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "738e705aa0b3d42b",
+  "active": "169a5c1a34b46a4d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Polymath Note Hub/Notes/CPSC 223P - Introduction To Python.md",
     "Polymath Note Hub/Notes/CPSC 223P - Introduction.md",
     "Polymath Note Hub/Notes/MATH 338 - Introduction.md",
     "Polymath Note Hub/Notes/Using Metricool And Buffer.md",
@@ -283,8 +339,6 @@
     "Polymath Note Hub/Test Note.md",
     "Polymath Note Hub/Annotation Test.md",
     "Polymath Note Hub/Linear Algebra.md",
-    "Polymath Note Hub/Templates/Untitled.md",
-    "Polymath Note Hub/Templates/General Notes Template.md",
     "Untitled Diagram.svg",
     "Polymath Note Hub/Templates",
     "Polymath Note Hub/Polynotes/Yearly Notes",
