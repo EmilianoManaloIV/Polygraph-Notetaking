@@ -20,4 +20,6 @@ NoteTags:
 * Linked-in learning is going to be used for homework
 * Limit use of generational AI; don't rely on it.
 * Only choose to be absent five days.
+* Homework is done by the end of the week
+* Most exams will be multiple choice 25-35 questions
 * 
