@@ -6,7 +6,7 @@ NoteTags:
 **REFLECTION** *What Did You Learn, Understand, Research?*
 
 **CONNECTION** *What Is Directly Related To This?*
-[[CPSC 223P - Introduction]]
+[[CPSC 223P - Python Programming Introduction]]
 **SYNTHESIS** *What Is Indirectly Related To This? At Least Three Things*
 
 ****
