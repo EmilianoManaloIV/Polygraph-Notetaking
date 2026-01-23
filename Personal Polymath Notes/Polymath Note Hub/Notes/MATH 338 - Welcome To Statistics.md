@@ -62,3 +62,24 @@ my_other_number = 10
 my_number
 my_other_number
 ```
+* You create vector objects using c() function
+```R
+#Create a vector
+a <- c(1,2,3)
+#Utilize indexes to access vector components, this one accesses three
+a[3]
+```
+* You can store data in objects in many ways
+```R
+x <- 2
+x <- c(2,4)
+x <- 3:8
+x <- c("a", "b")
+x <- c(true, false)
+x <- 5 == 3
+```
+* R can treat numerical values in text is equal to string
+```R
+"1" == 1
+#This is a TRUE statement
+```

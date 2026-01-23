@@ -115,4 +115,35 @@ someList = [1,4,8, True, "Some String"]
 someList[0] #Will display 1
 someList[:3] #Will display 1,4, 8
 ```
-* There is a method within the lists operation that can append or prepend
+* Lists are mutable by nature, thus doesn't follow the some constraint as strings.
+```python
+myList = [1,2,3]
+myList[0] = 10
+#Thus becomes [10,2,3]
+#You can also use slicing
+myList[0:2]
+#What will result is [10,2]
+```
+* You can use append in python operations
+```python
+myList.append(8)
+#Thus results in [10,2,3,8]
+```
+* You can clear lists using empty lists
+```python
+myList[2:5] = []
+#Empties the list from index 2 incluse to 5 exclusive
+```
+* You can get the length of a list using .len(x)
+```python
+myList.len(x)
+```
+* If you slice more than your last index, it adds values
+* You can nest types with lists
+```python
+x = [100,'h',[1,2]]
+print(x[2])
+#Get sub list from other lists
+print(x[2][0])
+#THis will return 1
+```
