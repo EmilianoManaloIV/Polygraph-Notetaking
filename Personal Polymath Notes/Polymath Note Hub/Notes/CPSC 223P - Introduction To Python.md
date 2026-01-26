@@ -147,3 +147,104 @@ print(x[2])
 print(x[2][0])
 #THis will return 1
 ```
+* You can add lists into one big list
+```python
+a = ['a', 'b', 'c']
+n = [1, 2, 3]
+x[0]
+#This will result in ['a', 'b', 'c']
+x[0][1]
+#This will result in 'b'
+z = a + n
+#thus z will be ['a', 'b', 'c', 1, 2, 3]
+#This is not the same as
+a.append(n)
+#This will result in ['a','b','c',[1, 2,3]]
+```
+* You can reverse lists
+```python
+myList.reverse()
+```
+---
+# Programming Constructs
+## While Loops
+* Basic structure of a while loop
+```python
+#Creates the base case and values
+a, b = 0, 1
+#Creates the loop of fibonanchi sequence
+while a < 10:
+	print(a)
+	a, b = b, a+b
+```
+## Print Function
+* Normal printing
+```python
+a = 1
+#These will print on seperate lines
+print("Hello")
+print("a")
+print(a)
+```
+* Replacement printing
+```python
+a = 1
+#These will print on the same line
+print("Hello", end=',')
+print("a", end=',')
+print(a)
+#This will result in "Hello, a, 1"
+```
+## If Statements
+* You can create if else statements
+```python
+#You can ask for input utilizing input funciton
+x = int(input("PLeaser enter the integer: "))
+#Now decide what to do with this "x" data
+if x < 0:
+	x = 0
+	print("Negative changed to zero")
+elif x == 0:
+	print("zero")
+elif x == 1:
+	print("single")
+else:
+	print('More')
+```
+## For Statements
+* You can create for statements with in operator
+```python
+#Measure the amount in strings
+words = ["Cat", "Window", "defensetrate"]
+#Utilizes each element in the list
+for w in words:
+	print(w, len(w))
+```
+## Usage Range() function
+* You can create a range of numbers
+```python
+#Prints sequential numbers
+for i in range(5):
+	print(i)
+#You can use slicing methodology too
+list(range(0,10,3))
+#This will display [0,3,6,9]
+list(range(-10,-100,-30))
+#This will displaye [-10, -40, -70]
+```
+* You can also use range indexing
+```python
+a = ["Mary", "Had", "A", "Little", "Lamb"]
+for i in range(len(a)):
+	print(i, a[i])
+```
+## You Can Convert Types
+
+```python
+x = list(range(5))
+#This will return as a list of seqential numbers [0,1,2,3,4]
+a = '2'
+b = int(a)
+print(b)
+#This will print 2 the integer
+```

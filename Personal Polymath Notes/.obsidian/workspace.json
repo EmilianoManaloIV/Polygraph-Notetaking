@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polymath Note Hub/Notes/CPSC 223P - Introduction To Python.md",
+                "file": "Polymath Note Hub/Notes/CPSC 386 - Introduction To Game Design.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CPSC 223P - Introduction To Python"
+              "title": "CPSC 386 - Introduction To Game Design"
+            }
+          },
+          {
+            "id": "498b04e135e0d747",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polymath Note Hub/Notes/CPSC 386 - The Unity Editor.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CPSC 386 - The Unity Editor"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,16 +253,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5b6a734bfd40c53f",
+  "active": "498b04e135e0d747",
   "lastOpenFiles": [
+    "Polymath Note Hub/Notes/CPSC 386 - Introduction To Game Design.md",
+    "Polymath Note Hub/Notes/CPSC 386 - The Unity Editor.md",
+    "Polymath Note Hub/Notes/CPSC 223P - Introduction To Python.md",
     "Polymath Note Hub/Notes/CPSC 223P - Python Programming Introduction.md",
     "Polymath Note Hub/Notes/ACM SIGGRAPH LinkedIn Operations.md",
     "Polymath Note Hub/Notes/MATH 338 - Welcome To Statistics.md",
     "Polymath Note Hub/Notes/Using Metricool And Buffer.md",
     "Polymath Note Hub/Notes/MATH 338 - Statistics For Natural Sciences.md",
-    "Polymath Note Hub/Notes/CPSC 386 - Introduction To Game Design.md",
     "Polymath Note Hub/Notes/CPSC 332 - Introduction To File Systems And Databases.md",
-    "Polymath Note Hub/Notes/CPSC 223P - Introduction To Python.md",
     "Polymath Note Hub/Notes/Social Media Reach.md",
     "Polymath Note Hub/Landing Page.md",
     "conflict-files-obsidian-git.md",
@@ -260,7 +285,6 @@
     "Untitled.md",
     "Polymath Note Hub/Graph Theory.md",
     "Polymath Note Hub/Minecraft.md",
-    "Polymath Note Hub/CPSC-362 Software Engineering.md",
     "Untitled Diagram.svg",
     "Polymath Note Hub/Templates",
     "Polymath Note Hub/Polynotes/Yearly Notes",
