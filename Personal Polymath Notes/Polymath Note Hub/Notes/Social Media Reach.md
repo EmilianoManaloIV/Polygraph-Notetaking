@@ -8,7 +8,6 @@ Social media is a platform that utilizes human group psychology to influence or 
 **CONNECTION** *What Is Directly Related To This?*
 [[Landing Page]]
 **SYNTHESIS** *What Is Indirectly Related To This? At Least Three Things*
-#SocialPsychology #SocialMedia #Influecer
 ****
 **Importance Of Social Media**
 	Social media is a platform that often expresses ideas of individuals and an organization. Its often the platform of choice of both influencers and content creators to reach further than what is localized around them. This in-turn creates communities and environments that furthers their influence within society. 

@@ -8,7 +8,6 @@ NoteTags:
 **CONNECTION** *What Is Directly Related To This?*
 [[Landing Page]]
 **SYNTHESIS** *What Is Indirectly Related To This? At Least Three Things*
-#CPSC223P
 ****
 **Syllabus**
 * Attendance is recommended (potential bump grade up)
