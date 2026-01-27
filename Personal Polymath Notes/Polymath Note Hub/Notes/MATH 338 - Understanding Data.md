@@ -80,4 +80,12 @@ factor()
 ---
 ## Values And Variables
 * **Variable**: A certain trait; something that is measured
-* **Value:** Result of something being measured to categorized
+* **Value:** Result of something being measured to categorized often associated with a variable.
+* **Measurement Error And Bias:** When someone measures but isn't true to itself exactly; often a small difference.
+	* **biased**: values across the board a way too low or high (everyone rounding up)
+```R
+#Reads some google sheet value
+read.csv(someUrl)
+#To get the mean of a set of values
+mean()
+```
