@@ -1,5 +1,5 @@
 ---
-NoteType: Annotations
+NoteType: Theory
 NoteCreation: 2026-01-20
 NoteTags:
 ---
