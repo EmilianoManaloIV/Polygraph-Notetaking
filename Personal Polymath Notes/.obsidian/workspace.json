@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polymath Note Hub/Notes/CPSC 223P - Control Flow.md",
+                "file": "Polymath Note Hub/Notes/Half-Real.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CPSC 223P - Control Flow"
+              "title": "Half-Real"
             }
           }
         ],
@@ -255,8 +255,9 @@
   },
   "active": "ceb658678ec24cb9",
   "lastOpenFiles": [
+    "Polymath Note Hub/Notes/CPSC 223P - Control Flow & Functions.md",
+    "Polymath Note Hub/Notes/Half-Real.md",
     "Polymath Note Hub/Notes/CPSC 223P - Introduction To Python.md",
-    "Polymath Note Hub/Notes/CPSC 223P - Control Flow.md",
     "Polymath Note Hub/Notes/CPSC 223P - Python Programming Introduction.md",
     "Polymath Note Hub/Notes/MATH 338 - Understanding Data.md",
     "Polymath Note Hub/Landing Page.md",
@@ -283,7 +284,6 @@
     "Excalidraw/Drawing 2025-11-22 20.12.35.excalidraw.md",
     "Excalidraw",
     "Polymath Note Hub/Multi-Media",
-    "Polymath Note Hub/Notes/TestFile.md",
     "Polymath Note Hub/Notes",
     "Untitled Diagram.svg",
     "Polymath Note Hub/Templates",

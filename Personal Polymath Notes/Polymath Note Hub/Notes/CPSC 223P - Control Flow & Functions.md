@@ -165,6 +165,9 @@ if y in x:
 ___
 ## Function Keyword Arguments
 * You can use keywords to signal certain arguments
+	* Keyword arguments can't be followed by positional arguments
+	* Can't double define at the same argument
+	* Can't pass arguments that aren't part of the function
 ```python
 #Create a function
 def add(x,y)
@@ -175,6 +178,35 @@ add(3,4)
 add(x=3, y=4)
 add(y=4,x=3)
 ```
-* Keyword arguments can't be followed by positional arguments
-* Can't double define at the same argument
-* Can't pass arguments that aren't part of the function
+* You can have varying argument lengths using "*"
+```python
+#Define loose amount of arguments
+def my_function(*args):
+	print(args)
+	#Very argument do this
+	for i in range(len(args))
+		#Print the argumnet
+		print(args[i])
+```
+* You can restrict arguments using "/" for position and "*" for keyword only
+```python
+#Example of restricting argumnets
+def f(pos1, post2, /, pos_or_kwd, *, kwd1, kwd2)
+```
+* When to use this methodology!
+	* Positional: There is no real meaning
+	* Keyword: The name mean something
+		* DO NOT USE THIS WITH AN API
+---
+## Lambda Functions
+* Small functions you can call at any time, only has one expression but multiple arguments
+	* Can follow argument restrictions
+	* May be useful for mixed strings ("id" + number)
+	* Useful in conjunction with other python functions
+```python
+#Lambda funciton format
+f = lambda x,y: x+y
+#Same thing explicityly
+def f(x,y)
+	return(x+y)
+```
