@@ -115,8 +115,36 @@ ___
 select()
 #Chooses the first few rows of a table
 head()
+#Chooses the last rows of the table
+tail()
 #Shows certain rows
 filter()
 #Makes it easier to see changes in CourseKata
 >%>
+#Provides a limited amount of variables (Collumns)
+select()
+```
+___
+## Missing Data
+* Missing values in R are represented with **NA**
+```R
+#How to remove missing data within a data frame
+na.omit()
+#How to sort through msising data for certain varialbes
+filter(data frame, is.na(variable) == FALSE)
+```
+* Filters inward, but not outward
+___
+## Creating And Recording Variables
+* How to add a new collumn/variable to a dataset
+```R
+#Use the "$" like accessing the variable
+dataset$new_variable <- someValue
+#You can use mutuate to do multiple equations
+mutate(new_variable1 = some_value1, new_variable2 = some_value2)
+```
+* Change categorical coding for a variable
+```R
+#Change the coding of values
+recode(varaible, some_new_assignment)
 ```
