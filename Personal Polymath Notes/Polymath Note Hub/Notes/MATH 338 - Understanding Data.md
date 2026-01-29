@@ -89,3 +89,34 @@ read.csv(someUrl)
 #To get the mean of a set of values
 mean()
 ```
+___
+## Sampling From A Population
+* There are two major components we must consider:
+	* **What Are We Measuring?**
+	* **How Do We Choose What We Are Measuring?**
+* **Random Sampling:** Every object or subject have an equal chance of being selected
+* **Independent Sampling:** Selecting an object shouldn't influence another related to that object
+* **Sampling Variation:** Every sample is always different, creating variation
+```R
+#How to get a sample out of a population
+sample()
+#Create a histogram
+gf_histrogram()
+```
+___
+## The Structure Of Data
+* **Tidy Data Structure**
+	* **A Variable IS A Column**
+	* **Each Observation Is A Row**
+	* **Each Type Of Observational Unit is its own table**
+* How to work with data frames
+```R
+#Chooses certain collumns
+select()
+#Chooses the first few rows of a table
+head()
+#Shows certain rows
+filter()
+#Makes it easier to see changes in CourseKata
+>%>
+```

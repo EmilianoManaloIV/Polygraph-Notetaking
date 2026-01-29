@@ -80,3 +80,20 @@ ___
 * **Support Of Multiple Views Of The Data**: Limit the access of the data based on roles or privileges.
 * **Data Sharing**: Databases serve as a concurrent process where multiple users can access certain data.
 ___
+## Database Users
+* **Database Administers:** Manage the database and maintains its operations.
+* **Database Designers:** Determines the actual architecture of the database.
+* **End Users:** The users that utilize the database provided by both the designers and administrators.
+	* **Casual:** Access the DB once and awhile
+	* **Naive:** Access of certain data on a whim
+* **System Analyst and Application Developers**
+* **Actors Behind The Scene:** Low level development of the the database
+___
+## Hierarchical Model
+* Most database systems are based on a natural Hierarchical Model; however most relationships are not tree based by nature.
+___
+## Network Model
+* Connects within each other
+___
+## Relational Model
+* Interrogability with many different components of data.

@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polymath Note Hub/Notes/CPSC 332 Introduction To Databases Continued.md",
+                "file": "Polymath Note Hub/Notes/MATH 338 - Understanding Data.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CPSC 332 Introduction To Databases Continued"
+              "title": "MATH 338 - Understanding Data"
             }
           }
         ],
@@ -279,12 +279,14 @@
   },
   "active": "822cae0b89379b90",
   "lastOpenFiles": [
-    "Polymath Note Hub/Notes/CSPC-332 Introduction To Databases.md",
-    "Polymath Note Hub/Notes/CPSC 332 Introduction To Databases Continued.md",
+    "Polymath Note Hub/Notes/Untitled.md",
     "Polymath Note Hub/Notes/MATH 338 - Welcome To Statistics.md",
+    "Polymath Note Hub/Notes/MATH 338 - Statistics For Natural Sciences.md",
+    "Polymath Note Hub/Notes/CSPC-332 - Introduction To Databases.md",
+    "Polymath Note Hub/Notes/CPSC 386 - Half-Real.md",
+    "Polymath Note Hub/Notes/CPSC 332 - Introduction To Databases Continued.md",
     "Polymath Note Hub/Notes/CPSC 223P - Python Programming Introduction.md",
     "Polymath Note Hub/Notes/CPSC 223P - Control Flow & Functions.md",
-    "Polymath Note Hub/Notes/CPSC 386 Half-Real.md",
     "Polymath Note Hub/Notes/CPSC 386 - The Unity Editor.md",
     "Polymath Note Hub/Notes/CPSC 223P - Introduction To Python.md",
     "Polymath Note Hub/Notes/MATH 338 - Understanding Data.md",
@@ -294,7 +296,6 @@
     "Polymath Note Hub/Notes/CPSC 332 - Introduction To File Systems And Databases.md",
     "Polymath Note Hub/Notes/CPSC 386 - Introduction To Game Design.md",
     "Polymath Note Hub/Notes/ACM SIGGRAPH LinkedIn Operations.md",
-    "Polymath Note Hub/Notes/MATH 338 - Statistics For Natural Sciences.md",
     "conflict-files-obsidian-git.md",
     "Polymath Note Hub/Notes/MATH 338 - Welcome To Statistics, A Modeling Approach.md",
     "Polymath Note Hub/Projects.md",
@@ -305,7 +306,6 @@
     "Polymath Note Hub/Notes/Untitled Diagram.svg",
     "Polymath Note Hub/Notes/Obsidian Notetaking Efficiency.md",
     "Polymath Note Hub/Multi-Media/Lola & Lolo House 3D Model @{2025-11-30}.md",
-    "Polymath Note Hub/Multi-Media/Drawing 2025-11-22 20.15.06.excalidraw.md",
     "Excalidraw",
     "Polymath Note Hub/Multi-Media",
     "Polymath Note Hub/Notes",
