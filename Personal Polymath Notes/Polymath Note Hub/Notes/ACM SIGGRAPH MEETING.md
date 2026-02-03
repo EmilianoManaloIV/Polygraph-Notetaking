@@ -25,5 +25,5 @@ ___
 ___
 **Website**
 * Work on graphic design and interact ability elements
-* 
+	* Work On Design document
 ---

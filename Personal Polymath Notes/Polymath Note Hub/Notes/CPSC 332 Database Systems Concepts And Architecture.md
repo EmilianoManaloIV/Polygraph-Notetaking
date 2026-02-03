@@ -60,4 +60,20 @@ ___
 * **Data Model**: Represents the structure, operations, and rules of the database
 ---
 ## Data Model Categories
-* **Conceptual**
+* **Conceptual**: How do we perceive data? Human friendly or computer friendly.
+* **Physical:** How is data stored in the computer?
+* **Representational**: Provide useful data to the user up-front.
+* **Self-Describing**: Certain parts of the data showcases its structure intrictly.
+___
+## Database Schema
+* Schema describes the structure/table?
+* How does the data connect with one another?
+* Separate tables to prevent error or system disability.
+___
+## Database State
+* Tells us what is the status of the data at a certain time.
+* Has all the data in the database
+	* **Empty State**: Initiated new data schema (Content)
+	* **Initial State**: State of the database after its loaded with data (Time)
+	* **Current State**: State of the database at present time
+	* **Valid State**: A state in which the constraints and structure is up to par.
