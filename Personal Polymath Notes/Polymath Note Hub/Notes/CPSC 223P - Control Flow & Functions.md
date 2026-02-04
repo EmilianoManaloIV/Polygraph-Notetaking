@@ -222,6 +222,7 @@ print(sorted(MyList, key = lambda x:int(x)))
 #Filter can operate the same way
 filter(function, sequence)
 #Sorting based on length
-sorted(cards, key lambda x:len(x))
+sorted(cards, key lambda x:len(x), reverse = true)
 ```
 * Lambda functions operate as modifying individual elements within the list
+___
