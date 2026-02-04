@@ -69,3 +69,10 @@ mySet = {'a', 'b', 'c'}
 #To make an empty set
 mySet = set()
 ```
+___
+## Dictionaries
+* Its a set of key value pairs, best for database systems, can store and retrieve data.
+```python
+#Create a dictionary
+x = {44:"Ainge", 54:"Manalo", 86:"Burthum}
+```

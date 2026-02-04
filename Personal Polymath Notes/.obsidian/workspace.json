@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "CPSC 223P - Data Structures"
             }
+          },
+          {
+            "id": "f28c3778121a28f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polymath Note Hub/Notes/CPSC 332 - LinkedIn MySql Certifications.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CPSC 332 - LinkedIn MySql Certifications"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "6340c0e61b738562",
@@ -253,16 +278,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6dd6690d9e8959c7",
+  "active": "f28c3778121a28f3",
   "lastOpenFiles": [
-    "Polymath Note Hub/Notes/Untitled.md",
+    "Polymath Note Hub/Notes/ACM SIGGRAPH MEETING.md",
+    "Polymath Note Hub/Notes/CPSC 332 - LinkedIn MySql Certifications.md",
     "Polymath Note Hub/Notes/CPSC 223P - Data Structures.md",
+    "Polymath Note Hub/Notes/Untitled.md",
     "Polymath Note Hub/Notes/CPSC 223P - Control Flow & Functions.md",
     "Polymath Note Hub/Notes/MATH 338 - Examining Distributions.md",
     "Polymath Note Hub/Notes/CPSC 332 - Database Systems Concepts And Architecture.md",
     "Polymath Note Hub/Notes/CPSC 332 - Introduction To Databases Continued.md",
     "Polymath Note Hub/Notes/CPSC 386 - Coding.md",
-    "Polymath Note Hub/Notes/ACM SIGGRAPH MEETING.md",
     "Polymath Note Hub/Notes/MATH 338 - Understanding Data.md",
     "Polymath Note Hub/Notes/CPSC 332 - Introduction To File Systems And Databases.md",
     "Polymath Note Hub/Notes/MATH 338 - Statistics For Natural Sciences.md",
@@ -280,7 +306,6 @@
     "conflict-files-obsidian-git.md",
     "Polymath Note Hub/Notes/MATH 338 - Welcome To Statistics, A Modeling Approach.md",
     "Polymath Note Hub/Projects.md",
-    "Polymath Note Hub/Learning Board.md",
     "Polymath Note Hub/Notes/Untitled Diagram.svg",
     "Excalidraw",
     "Polymath Note Hub/Multi-Media",
