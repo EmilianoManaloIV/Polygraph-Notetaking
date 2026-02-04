@@ -210,3 +210,18 @@ f = lambda x,y: x+y
 def f(x,y)
 	return(x+y)
 ```
+___
+## Higher Order Functions
+* Higher order functions take one or more functions as arguments.
+* This is where lambda functions can be implemented
+```python
+#Example of manipulating a sort function
+Mylist = ["1","2","3","100"]
+#Casts the elements in the list as an integer
+print(sorted(MyList, key = lambda x:int(x)))
+#Filter can operate the same way
+filter(function, sequence)
+#Sorting based on length
+sorted(cards, key lambda x:len(x))
+```
+* Lambda functions operate as modifying individual elements within the list

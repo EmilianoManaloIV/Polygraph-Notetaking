@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "349ead83c27184b1",
+            "id": "c68876eb59457fb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polymath Note Hub/Notes/MATH 338 - Understanding Data.md",
+                "file": "Polymath Note Hub/Notes/CPSC 223P - Control Flow & Functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,155 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MATH 338 - Understanding Data"
-            }
-          },
-          {
-            "id": "670439d5d0a85e3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polymath Note Hub/Notes/ACM SIGGRAPH MEETING.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ACM SIGGRAPH MEETING"
-            }
-          },
-          {
-            "id": "7ef15713d1133210",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polymath Note Hub/Notes/CPSC 386 - Coding.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CPSC 386 - Coding"
-            }
-          },
-          {
-            "id": "1d0357f4138e7292",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polymath Note Hub/Notes/CPSC 332 - Introduction To Databases Continued.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CPSC 332 - Introduction To Databases Continued"
-            }
-          },
-          {
-            "id": "02031f2d2711d33e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polymath Note Hub/Notes/ACM SIGGRAPH MEETING.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ACM SIGGRAPH MEETING"
-            }
-          },
-          {
-            "id": "ceb658678ec24cb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polymath Note Hub/Notes/CSPC-332 Introduction To Databases.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CSPC-332 Introduction To Databases"
-            }
-          },
-          {
-            "id": "822cae0b89379b90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polymath Note Hub/Notes/MATH 338 - Understanding Data.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MATH 338 - Understanding Data"
+              "title": "CPSC 223P - Control Flow & Functions"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -349,16 +204,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "02031f2d2711d33e",
+  "active": "c68876eb59457fb1",
   "lastOpenFiles": [
-    "Polymath Note Hub/Notes/CPSC 332 Database Systems Concepts And Architecture.md",
+    "Polymath Note Hub/Notes/MATH 338 - Examining Distributions.md",
+    "Polymath Note Hub/Notes/CPSC 332 - Database Systems Concepts And Architecture.md",
     "Polymath Note Hub/Notes/CPSC 332 - Introduction To Databases Continued.md",
-    "Polymath Note Hub/Notes/CPSC 332 - Introduction To File Systems And Databases.md",
-    "Polymath Note Hub/Notes/MATH 338 - Statistics For Natural Sciences.md",
     "Polymath Note Hub/Notes/CPSC 386 - Coding.md",
-    "Polymath Note Hub/Notes/CPSC 223P - Introduction To Python.md",
     "Polymath Note Hub/Notes/ACM SIGGRAPH MEETING.md",
     "Polymath Note Hub/Notes/MATH 338 - Understanding Data.md",
+    "Polymath Note Hub/Notes/CPSC 332 - Introduction To File Systems And Databases.md",
+    "Polymath Note Hub/Notes/MATH 338 - Statistics For Natural Sciences.md",
+    "Polymath Note Hub/Notes/CPSC 223P - Introduction To Python.md",
     "Polymath Note Hub/Notes/MATH 338 - Welcome To Statistics.md",
     "Polymath Note Hub/Notes/CPSC 223P - Control Flow & Functions.md",
     "Polymath Note Hub/Notes/CPSC 223P - Python Programming Introduction.md",
@@ -376,7 +232,6 @@
     "Polymath Note Hub/Learning Board.md",
     "Polymath Note Hub/Templates/Note Template.md",
     "Polymath Note Hub/Multi-Media/Drawing 2025-11-22 20.57.29.excalidraw.md",
-    "Polymath Note Hub/Notes/Untitled Kanban.md",
     "Polymath Note Hub/Notes/Untitled Diagram.svg",
     "Excalidraw",
     "Polymath Note Hub/Multi-Media",
