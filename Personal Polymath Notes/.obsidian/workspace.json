@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "462d2392713e64ab",
+        "id": "712270e99b264164",
         "type": "tabs",
         "children": [
           {
-            "id": "e79a89afbc4e294f",
+            "id": "40aa59e9b5ccb976",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polymath Note Hub/Notes/CPSC 386 - Interesting Object Properties.md",
+                "file": "Polymath Note Hub/Notes/CPSC 332 - Database Systems Concepts And Architecture.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CPSC 386 - Interesting Object Properties"
+              "title": "CPSC 332 - Database Systems Concepts And Architecture"
             }
           }
         ]
@@ -204,28 +204,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e79a89afbc4e294f",
+  "active": "40aa59e9b5ccb976",
   "lastOpenFiles": [
-    "Polymath Note Hub/Notes/CSPC 332 - Introduction To Databases.md",
-    "Polymath Note Hub/Notes/CPSC 386 - Interesting Object Properties.md",
+    "Polymath Note Hub/Notes/CPSC 332 - Introduction To Databases Continued.md",
+    "Polymath Note Hub/Notes/CPSC 332 - Introduction To File Systems And Databases.md",
     "Polymath Note Hub/Notes/CPSC 332 - LinkedIn MySql Certifications.md",
+    "Polymath Note Hub/Notes/CPSC 386 - Interesting Object Properties.md",
+    "Polymath Note Hub/Landing Page.md",
+    "Polymath Note Hub/Notes/CSPC 332 - Introduction To Databases.md",
     "Polymath Note Hub/Notes/CPSC 223P - Data Structures.md",
     "Polymath Note Hub/Notes/Untitled.md",
     "Polymath Note Hub/Notes/CPSC 223P - Control Flow & Functions.md",
     "Polymath Note Hub/Notes/ACM SIGGRAPH MEETING.md",
     "Polymath Note Hub/Notes/MATH 338 - Examining Distributions.md",
     "Polymath Note Hub/Notes/CPSC 332 - Database Systems Concepts And Architecture.md",
-    "Polymath Note Hub/Notes/CPSC 332 - Introduction To Databases Continued.md",
     "Polymath Note Hub/Notes/CPSC 386 - Coding.md",
     "Polymath Note Hub/Notes/MATH 338 - Understanding Data.md",
-    "Polymath Note Hub/Notes/CPSC 332 - Introduction To File Systems And Databases.md",
     "Polymath Note Hub/Notes/MATH 338 - Statistics For Natural Sciences.md",
     "Polymath Note Hub/Notes/CPSC 223P - Introduction To Python.md",
     "Polymath Note Hub/Notes/MATH 338 - Welcome To Statistics.md",
     "Polymath Note Hub/Notes/CPSC 223P - Python Programming Introduction.md",
     "Polymath Note Hub/Notes/CPSC 386 - Half-Real.md",
     "Polymath Note Hub/Notes/CPSC 386 - The Unity Editor.md",
-    "Polymath Note Hub/Landing Page.md",
     "Polymath Note Hub/Notes/Social Media Reach.md",
     "Polymath Note Hub/Notes/Using Metricool And Buffer.md",
     "Polymath Note Hub/Notes/CPSC 386 - Introduction To Game Design.md",

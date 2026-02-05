@@ -75,5 +75,42 @@ ___
 * Has all the data in the database
 	* **Empty State**: Initiated new data schema (Content)
 	* **Initial State**: State of the database after its loaded with data (Time)
-	* **Current State**: State of the database at present time
-	* **Valid State**: A state in which the constraints and structure is up to par.
+	* **Current State**: State of the database at present time; snapshot (Event)
+	* **Valid State**: A state in which the constraints and structure is up to par (Correctness)
+___
+## Case Exercise
+* Case 1: Initiation of schema no errors.
+	* Is empty
+	* Not initialized
+	* Is Current
+	* Is Valid
+* Case 2: Schema defined, data loaded, no errors
+	* Is not empty
+	* Is initial
+	* Is current
+	* Is valid
+* Case 3: Added new data to order, no errors
+	* Is not empty
+	* Is not initial
+	* Is current
+	* Is valid
+* Case 4: Data has been changed and there was an error.
+	* Version 1 
+		* Is not emtpy
+		* It not initialization
+		* Is current
+		* is valid
+	* Version 2
+		* Is not empty
+		* Is not initialization
+		* Is current
+		* is not valid
+___
+## Three Schema Architecture
+* **Self-Describing Nature**: The system often describes itself
+* **Insulation Of Programs**: Keeping things separate to deal with segments of issues.
+* **Support Of Multiple Views**: Letting multiple users utilize a database system
+* **Internal Schema**: Physical data, indexing and low-level operations.
+* **Conceptual Schema**: ER diagrams and logical design
+* **External Schemas**: How a database is viewed in relation with users.
+* **Mappings**: The process of how layers of the system interact with one another.
