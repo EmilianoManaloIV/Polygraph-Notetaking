@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "3d7adb6e3b85ba0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polymath Note Hub/Notes/Previous Note Format/CSUF Createngineers Meetings/Createngineers Meeting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Createngineers Meeting"
+            }
+          },
+          {
             "id": "27fc5eeceb7c9d2f",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "CPSC 386 - Time Scale And Other Functions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,45 +253,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "40aa59e9b5ccb976",
+  "active": "3d7adb6e3b85ba0e",
   "lastOpenFiles": [
-    "Polymath Note Hub/Notes/MATH 338 - Understanding Data.md",
-    "Polymath Note Hub/Notes/MATH 338 - Statistics For Natural Sciences.md",
+    "Polymath Note Hub/Notes/Previous Note Format/Screenshot 2025-12-08 101425.png",
     "Polymath Note Hub/Notes/MATH 338 - Examining Distributions.md",
-    "Polymath Note Hub/Notes/MATH 338 - Welcome To Statistics.md",
-    "Polymath Note Hub/Notes/CPSC 386 - Time Scale And Other Functions.md",
-    "Polymath Note Hub/Notes/CSPC 332 - Introduction To Databases.md",
-    "Polymath Note Hub/Notes/CPSC 386 - Introduction To Game Design.md",
-    "Polymath Note Hub/Notes/CPSC 386 - Coding.md",
-    "Polymath Note Hub/Notes/CPSC 332 - Introduction To File Systems And Databases.md",
-    "Polymath Note Hub/Notes/CPSC 332 - LinkedIn MySql Certifications.md",
-    "Polymath Note Hub/Notes/CPSC 332 - Introduction To Databases Continued.md",
-    "Polymath Note Hub/Notes/CPSC 332 - Database Systems Concepts And Architecture.md",
-    "Polymath Note Hub/Notes/CPSC 223P - Python Programming Introduction.md",
-    "Polymath Note Hub/Notes/CPSC 223P - Control Flow & Functions.md",
-    "Polymath Note Hub/Notes/CPSC 223P - Data Structures.md",
-    "Polymath Note Hub/Notes/CPSC 223P - Introduction To Python.md",
-    "Polymath Note Hub/Landing Page.md",
-    "Polymath Note Hub/Notes/CPSC 386 - The Unity Editor.md",
-    "Polymath Note Hub/Notes/mATH.md",
-    "Polymath Note Hub/Notes/CPSC 386 - Interesting Object Properties.md",
-    "Polymath Note Hub/Notes/Untitled.md",
-    "Polymath Note Hub/Notes/ACM SIGGRAPH MEETING.md",
-    "Polymath Note Hub/Notes/CPSC 386 - Half-Real.md",
-    "Polymath Note Hub/Notes/Social Media Reach.md",
-    "Polymath Note Hub/Notes/Using Metricool And Buffer.md",
-    "Polymath Note Hub/Notes/ACM SIGGRAPH LinkedIn Operations.md",
-    "Polymath Note Hub/Notes/Untitled Diagram.svg",
-    "Excalidraw",
-    "Polymath Note Hub/Multi-Media",
-    "Polymath Note Hub/Notes",
-    "Untitled Diagram.svg",
-    "Polymath Note Hub/Templates",
-    "Polymath Note Hub/Polynotes/Yearly Notes",
-    "Polymath Note Hub/Polynotes/Quarterly Notes",
-    "Polymath Note Hub/Polynotes/Yearly Notes",
-    "Polymath Note Hub/Polynotes/Monthly Notes",
-    "Polymath Note Hub/Polynotes/Weekly Notes/Untitled",
-    "Polymath Note Hub/Polynotes/Weekly Notes"
+    "Polymath Note Hub/Notes/Previous Note Format/Screenshot 2025-12-14 213724.png",
+    "Polymath Note Hub/Notes/Previous Note Format/Screenshot 2025-12-08 103927.png",
+    "Polymath Note Hub/Notes/Previous Note Format/Screenshot 2025-12-08 103841.png",
+    "Polymath Note Hub/Notes/Previous Note Format/Screenshot 2025-12-08 103625.png",
+    "Polymath Note Hub/Notes/Previous Note Format/Screenshot 2025-12-08 102632.png",
+    "Polymath Note Hub/Notes/Previous Note Format/Screenshot 2025-12-08 102504.png",
+    "Polymath Note Hub/Notes/Previous Note Format/Screenshot 2025-12-08 102449.png",
+    "Polymath Note Hub/Notes/Previous Note Format/Screenshot 2025-12-08 101806.png",
+    "Polymath Note Hub/Notes/Previous Note Format/Screenshot 2025-12-08 101502.png",
+    "Polymath Note Hub/Notes/Previous Note Format/Screenshot 2025-12-08 101440.png",
+    "Polymath Note Hub/Notes/Previous Note Format/CH22.pptx",
+    "Polymath Note Hub/Notes/Previous Note Format/Ch 11 Sleep Disorders.docx",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/2024-10-29.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/VLPO.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/Sleep And Pyschology.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/Untitled 1.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/Untitled.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/Untitled.canvas",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/Untitled 2.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/PSY-50 CH 9.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/PSY-50 Chapter 8 Bivariate Correlational Research.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/Learning And Memory.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/PSY-50 CH12.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/PSY-50 CH 7 (How To Sample).md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/PSY-50 CH 6.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/PSY-50 CH 10.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/PSY-50 CH 11.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/PHY-4B CH 14 Backup.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/CSC-17C Backup Notes.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/Emotions.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/Chapter 15 - Osscilations.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/CSUF 101 Welcome.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/CSU-Fullerton ECS Orientation.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/Classical Conditioning.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/2025-03-27.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/Academic Meeting.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/2025-03-24.md",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK",
+    "Polymath Note Hub/Notes/Previous Note Format/Images & Diagrams/Untitled.base",
+    "Polymath Note Hub/Notes/Previous Note Format/Images & Diagrams/Untitled 1.base",
+    "Polymath Note Hub/Notes/Previous Note Format/Images & Diagrams/007__01__CH08_Ch09_final_10082025.pdf",
+    "Polymath Note Hub/Notes/Previous Note Format/Images & Diagrams/007__01__CH08_Ch09_final_10082025 1.pdf",
+    "Polymath Note Hub/Notes/Previous Note Format/Images & Diagrams/005__01__CH05_Ch22_COMBINED.pdf",
+    "Polymath Note Hub/Notes/Previous Note Format/Images & Diagrams/005__01__CH05_Ch22_COMBINED (1).pdf",
+    "Polymath Note Hub/Notes/Previous Note Format/Images & Diagrams/004__Ch03_Ch04_Combined.pdf"
   ]
 }

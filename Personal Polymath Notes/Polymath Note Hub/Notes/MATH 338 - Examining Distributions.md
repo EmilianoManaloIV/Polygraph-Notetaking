@@ -114,7 +114,10 @@ ___
 ## Exploring Variation In Categorical (Factor) Variable
 * Utilize a bar graph to determine categorical data
 ```R
+#This is for a data frame
 gf_bar(~ categorical_variable, data = data_frame)
+#This is used for a singular vector
+gf_bar(~vector)
 ```
 * An important part of categorical data is the **center** which is the category with the highest amount of entries.
 ```R
