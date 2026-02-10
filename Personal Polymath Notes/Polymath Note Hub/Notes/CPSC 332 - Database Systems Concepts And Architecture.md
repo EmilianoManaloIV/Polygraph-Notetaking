@@ -6,7 +6,7 @@ NoteTags:
 **REFLECTION** *What Did You Learn, Understand, Research?*
 
 **CONNECTION** *What Is Directly Related To This?*
-[[Landing Page]]
+[[CPSC 332 - Introduction To File Systems And Databases]]
 **SYNTHESIS** *What Is Indirectly Related To This? At Least Three Things*
 
 ****
@@ -113,4 +113,68 @@ ___
 * **Internal Schema**: Physical data, indexing and low-level operations.
 * **Conceptual Schema**: ER diagrams and logical design
 * **External Schemas**: How a database is viewed in relation with users.
-* **Mappings**: The process of how layers of the system interact with one another.
+* **Mappings**: The process of how layers of the system interact with one another. Its the communication channels between each of the systems that the user doesn't implicitly see.
+___
+## Data Independence
+* **Logical Data Independence:** We change the conceptual schema without having to change external application programs.
+* **Physical Data Independence:** Can be changed how things are formatted without modifying any of the prior data.
+* When a schema or lower level is changed, we only need to change the **mappings.**
+___
+## DBMS Language
+* **DDL:** Change the schema of the database and doesn't touch the entries (MetaData)
+	* **SDL:** Internal Schema
+	* **VDL:** User view
+* **DML:** Change the entries or data within the schema.
+	* **SQL:** Non procedural data 
+	* **PL/SQL:** How to get certain parts of data using data provided
+___
+## DBMS Languages DML
+* **High Level or Non-Procedural Language**: I want a certain piece of data, I don't want to know how I got it.
+* **Low Level Or Procedural Language**: Get every piece of data you specified, matters how I want to get it.
+___
+## DBMS Interfaces
+* **Menu-Based (Often Web Based):** Utilize a user interface that fronts the queries you want.
+* **Apps For Mobile Devices**: Built in programmed interacted and with limited menu options.
+* **Forms Based**: A form that is created for a user that fills it out and then is saved into the database.
+* **Graphics Based**: Displays a schema utilizing a built in query and menu system.
+* **OTHER INTERFACES
+	* Natural Language
+	* Speech input/output
+	* Keyword Based Search
+	* Parametric 
+* ****
+## DBMS Component Modules: Group 1
+* **Top Users:** Care about the table structure and schema of the system, doesn't care about the data associated with the schema
+* **Bottom Users**: 
+___
+## DBMS Component Modules: Group 2
+* **Casual Users:** Occasionally need access to the query system once and awhile
+* **Query Compiler:** Complies the query given
+* **Query Optimizer:** Dictates how to execute the commands to be the most efficient.
+___
+## **DBMS Component Modules: Group 3**
+* **Application Programmer:** Writes programs that the database uses.
+* **Precompile**: Extracts DML commands 
+___
+## DBMS Component Modules: Group 4
+* Parametric users: Often interacts outside the scope of the database but often shovels data from one place to another.
+___
+## Database System Utilities
+* There are tools to find what values are accessible and can be manipulated, and in the best efficient way.
+___
+## Centralized DBMS Architecture
+* **Older Architecture:** Large mainframe computer that holds all the operations of the system, such as front-end and back-end systems in one large computer: mainframe.
+___
+## Client Server Architecture
+* Accessing the data in a segmented client to server system. Where that network can route the user to what they need to access. The communication network handles alot of the data traffic in what the user needs to access.
+___
+## Two-Tier Client/Server Architecture
+* There is a client that handles the UI and applications program, while the server can handle just the database. 
+* A three-tier system includes one more tier that serves the database system and is the middle man between the application and server.
+	* Extra Security
+	* Efficiency
+	* Scalability
+___
+## DBMS: Classification 2
+* Number Of Users: Members within the same machine
+* Number Of Sites: Querying the data over multiple sites

@@ -6,7 +6,7 @@ NoteTags:
 **REFLECTION** *What Did You Learn, Understand, Research?*
 
 **CONNECTION** *What Is Directly Related To This?*
-[[Landing Page]]
+[[MATH 338 - Welcome To Statistics]]
 **SYNTHESIS** *What Is Indirectly Related To This? At Least Three Things*
 
 ****
@@ -60,4 +60,69 @@ ___
 ```R
 #How to draw a line to see the pattern
 gf_density()
+```
+___
+## The Five - Number Summary
+* **Min:** Smallest value in the set
+* **Max:** Largest value in the set
+* **Median:** The value that is exactly between 50% distribution of the set of values.
+* WE can then get the five numbers as:
+```R
+favstats(~variable, data = data_frame)
+#Returns min|Q1|median|Q2|max|mean|sd|n-missing
+```
+___
+## Quartiles And The Five - Number Summary
+* Median is the exact position where the amount of cases from the left and right are equal
+* If there is an even amount of observations, the median is the average of the two values.
+___
+## Quartiles
+* Keep dividing the observations equally until you have more sections known as quartiles, the data must be sorted
+* The width of the intervals doesn't matter.
+* The quartile system can reveal the **five number summary**:
+	* Minimum $Q_{0}$
+	* First Quartile $Q_{1}$
+	* Second Quartile - Median $Q_{2}$
+	* Third Quartile $Q_{3}$
+	* Maximum $Q_{4}$
+* You can then describe the **center** and **spread**
+	* **Range**: Max - Min
+* **IQR**: Spread of the middle 50% values, determines if data are skewed or outliers
+	* $Q_{3}-Q_{1}$
+___
+## Outliers
+* Outliers can manipulate how data is analyzed, thus at times we have a general rule of thumb
+* **IQR Rule Of Thumb:**
+	* Data point larger than $Q_{3} +1.5 *IQR$
+	* Data point smaller than $Q_{1}-1.5*IQR$
+___
+## Box Plots And The Five - Number Summary
+* Boxplots can describe the distribution of values and can either be vertical or horizontal.
+* You can draw boxplots onto a histogram:
+```R
+gf_boxplot(~variable_name, data = data_frame) %>%
+	gf_histogram()
+```
+* **N-tile** divvies up the data in an even matter and even sorts it
+```R
+ntile(n)
+```
+___
+## Outliers On A Box Plot
+* Plan to filer out unneeded data that face outlier issues utilizing **IQR** and **filter**
+___
+## Exploring Variation In Categorical (Factor) Variable
+* Utilize a bar graph to determine categorical data
+```R
+gf_bar(~ categorical_variable, data = data_frame)
+```
+* An important part of categorical data is the **center** which is the category with the highest amount of entries.
+```R
+#Tally values
+tally()
+#Can add proportion keywrod
+format = "proportion"
+#you can also display margins (totla observations)
+margins = TRUE
+
 ```
