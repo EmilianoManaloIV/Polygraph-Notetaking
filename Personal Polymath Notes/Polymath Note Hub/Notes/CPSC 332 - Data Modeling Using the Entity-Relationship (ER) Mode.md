@@ -55,4 +55,23 @@ ___
 	* **Participation:** Amount of minimum relationships (-,=)
 ![[Entity Diagram.svg]]
 ___
-## Binary Relationship 
+## Cardinality Ratio
+* Details the ratio between a relationship such one department can have many employees, but an employee can only have one department.
+* The ratio describes the amount of entities within a given relationship.
+* A:B = x:y
+* A can have y B's
+* B can have x A's
+* Details with what is at-most; MAX
+___
+## Recursive Relationships
+* These are relationships that doesn't just interact with one entity, but can interact with multiple entities in various ways.
+___
+## Constraints In Participation
+* Is this relationship guaranteed or is it optional?
+* Such as you don't have to have a dependent as an employee, but a dependent must have an employee.
+___
+## Ternary Relationship
+* There can be more than two entities related in a relationship, thus you need to create a representation of the relationship between three entities.
+___
+## Structural Constraint: Alternative
+* You can use ( , ) format to define the maximum and minimum; combination of cardinality and participation.
