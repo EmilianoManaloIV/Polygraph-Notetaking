@@ -42,5 +42,17 @@ ___
 * Just like some programming languages, we can specify certain data types in the data set.
 ___
 ## Weak Entity Type
-* **Partial Key:** A key that can minimize some degree of ambiguity.
-* 
+* **Partial Key:** A key that can minimize some degree of ambiguity, but still can contain duplicates.
+___
+## Exam 1 Guide
+* Use printed or handwritten notes, only use lockdown browser before anything else.
+* 40 Minutes
+* 25 Questions
+___
+## Relationship
+* Defines set of associations with a certain amount of entities.
+	* **Cardinality:** Amount of max relationships 1:N, N:M, N:1
+	* **Participation:** Amount of minimum relationships (-,=)
+![[Entity Diagram.svg]]
+___
+## Binary Relationship 
