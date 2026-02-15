@@ -26,3 +26,14 @@ ___
 * Regression, Modeling, Hypothesis Testing, and Statistical Inference
 * *Use Variation In One Variable To Explain Variation In Another*
 ---
+## Visualizing Relationship With Scatter Plots
+* **Scatter Plots:** Provide a visual way to explain the relationship between two numerical variables.
+* X if often the explanatory variable and Y is often the responsive variable.
+* **Patterns:**
+	* Positive Correlation (Positive Slope)
+	* Negative Correlation (Negative Slop)
+	* No Relation (Slope Is Zero)
+```R
+#Create a scatterplot in R
+gf_point(y ~ x, data = dataFrame)
+```

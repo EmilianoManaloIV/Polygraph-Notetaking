@@ -200,8 +200,7 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "e0c4206faef8be8b",
