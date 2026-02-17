@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e0c4206faef8be8b",
+            "id": "33774f447ee3b4d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polymath Note Hub/Notes/MATH 338 - Explaining Variation.md",
+                "file": "Polymath Note Hub/Notes/MATH 338 - Statistics For Natural Sciences.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MATH 338 - Explaining Variation"
+              "title": "MATH 338 - Statistics For Natural Sciences"
+            }
+          },
+          {
+            "id": "f38b0ae5f3093b98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polymath Note Hub/Notes/MATH 338 - Categorical Variables.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MATH 338 - Categorical Variables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,22 +225,29 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "e0c4206faef8be8b",
+  "active": "f38b0ae5f3093b98",
   "lastOpenFiles": [
-    "Polymath Note Hub/Notes/CPSC 332 - Data Modeling Using the Entity-Relationship (ER) Mode.md",
-    "Polymath Note Hub/Notes/MATH 338 - Explaining Variation.md",
-    "Polymath Note Hub/Notes/More On ER Diagrams.svg",
+    "Polymath Note Hub/Notes/Previous Note Format/JUNK/VLPO.md",
+    "Polymath Note Hub/Notes/MATH 338 - Statistics For Natural Sciences.md",
+    "Polymath Note Hub/Notes/MATH 338 - Categorical Variables.md",
     "Polymath Note Hub/Notes/Untitled.base",
+    "Polymath Note Hub/Notes/Untitled.md",
+    "Polymath Note Hub/Notes/Using Metricool And Buffer.md",
+    "Polymath Note Hub/Notes/MATH 338 - Explaining Variation.md",
+    "Polymath Note Hub/Notes/MATH 338 - Examining Distributions.md",
+    "Polymath Note Hub/Notes/MATH 338 - Understanding Data.md",
+    "Polymath Note Hub/Notes/CPSC 332 - Data Modeling Using the Entity-Relationship (ER) Mode.md",
+    "Polymath Note Hub/Notes/More On ER Diagrams.svg",
     "Polymath Note Hub/Notes/CPSC 332 - Database Systems Concepts And Architecture.md",
     "Polymath Note Hub/Notes/CSPC 332 -.md",
     "Polymath Note Hub/Notes/CPSC 332 - Introduction To Databases Continued.md",
     "Polymath Note Hub/Notes/CPSC 332 - Introduction To File Systems And Databases.md",
     "Polymath Note Hub/Notes/CPSC 332 - LinkedIn MySql Certifications.md",
     "Polymath Note Hub/Notes/CPSC 386 - Unity Development AI Exploration.md",
-    "Polymath Note Hub/Notes/MATH 338 - Examining Distributions.md",
     "Polymath Note Hub/Notes/CSPC 332 - Introduction To Databases.md",
     "Polymath Note Hub/Notes/MATH 338 - New Examining Distributions.md",
     "Polymath Note Hub/Notes/CPSC 386 - General Movement System Unity3D.md",
@@ -238,13 +270,7 @@
     "Polymath Note Hub/Notes/Previous Note Format/CH22.pptx",
     "Polymath Note Hub/Notes/Previous Note Format/Ch 11 Sleep Disorders.docx",
     "Polymath Note Hub/Notes/Previous Note Format/JUNK/2024-10-29.md",
-    "Polymath Note Hub/Notes/Previous Note Format/JUNK/VLPO.md",
-    "Polymath Note Hub/Notes/Previous Note Format/JUNK/Sleep And Pyschology.md",
-    "Polymath Note Hub/Notes/Previous Note Format/JUNK/Untitled 1.md",
-    "Polymath Note Hub/Notes/Previous Note Format/JUNK/Untitled.md",
     "Polymath Note Hub/Notes/Previous Note Format/JUNK/Untitled.canvas",
-    "Polymath Note Hub/Notes/Previous Note Format/JUNK/Untitled 2.md",
-    "Polymath Note Hub/Notes/Previous Note Format/JUNK/PSY-50 CH 9.md",
     "Polymath Note Hub/Notes/Previous Note Format/JUNK",
     "Polymath Note Hub/Notes/Previous Note Format/Images & Diagrams/Untitled.base",
     "Polymath Note Hub/Notes/Previous Note Format/Images & Diagrams/Untitled 1.base",
