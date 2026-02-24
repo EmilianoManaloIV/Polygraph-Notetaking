@@ -118,3 +118,4 @@ ___
 ___
 ## Unexplained Variation As Random
 * There will always be unexplained variation, we view this as **random** and often view them with a **normal** distribution.
+---

@@ -38,3 +38,50 @@ ___
 gf_point(y ~ x, data = dataFrame)
 ```
 ---
+## Research Design
+* We often describe a relationship two variables, but it doesn't always have a causation between each other.
+* $\text{Correlation} \ne\text{Causation}$
+___
+## Problems In Causal Claims
+* **Directionality Problem:** Does variable A effect variable B and vice-versa?
+* **Confounding Problem:** Lurking variables may effect the relationship between A and B, or effect A & B independently.
+___
+## Observational Vs Experimental
+* **Observational:** We just measure variables without manipulating them, these can reveal patterns but doesn't find causation (survey)
+* **Experimental:** Manipulate the experimental variable that creates causal claims (random assignments)
+---
+## Research Designs
+* The separation of true vs misleading causalities.
+* Best practices for experiments:
+	* sample many
+	* randomly assign
+	* then compare outcome variable
+---
+## Why Random Assignment Is Needed?
+* Balances **confounding** variables.
+* **Random Sapling:** helps with generalizing results in a population.
+---
+## Considering Randomness Is A Possible DGP
+* **Randomness:** is a factor in DGP, we must consider this in our outcome variable influence.
+---
+## What Does The Data Look Like?
+* There is guaranteed variation when collecting and assigning groups at random
+```R
+#Create a jitter plot with a mean
+gf_jitter(outcomeVariable~explanatoryVariable, data = someDataFrame, height = someHeight, width = someWidth) %>%
+	gf_model(outcomeVariable ~ explanatoryVariable, color = "someColor")
+```
+* Also known as **random sampling variation**
+---
+## Using Shuffle To Simulate Randomness
+* We can use the shuffle() function to randomly simulate a given category within a data frame.
+```R
+shuffle(someDataframe$someVariable)
+```
+---
+## Shuffling Can Help Us Understand Real Data
+* We need to make many shuffles to conclude a certain pattern to determine of DGP was created by simple random chance (utilizes the **law or large numbers**)
+* We then compare if they are similar or different, thus, we can determine if there may be a relationship or not.
+---
+## Type 1 Error
+* There was a relationship being only created by random chance (coincidence).
