@@ -8,15 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a841e910ba659316",
+            "id": "35dfa421ca9e8e36",
             "type": "leaf",
             "state": {
-              "type": "diagram",
+              "type": "markdown",
               "state": {
-                "file": "Polymath Note Hub/Multi-Media/Entity Diagram.svg"
+                "file": "Polymath Note Hub/Notes/CSPC 386 - More On Unity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Entity Diagram"
+              "title": "CSPC 386 - More On Unity"
             }
           }
         ]
@@ -192,10 +204,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a99fb87d0d100119",
+  "active": "35dfa421ca9e8e36",
   "lastOpenFiles": [
+    "Polymath Note Hub/Notes/ACM SIGGRAPH MEETING 3.md",
+    "Polymath Note Hub/Notes/CSPC 386 - More On Unity.md",
+    "Polymath Note Hub/Notes/Untitled 1.md",
+    "Polymath Note Hub/Notes/ACM SIGGRAPH MEETING.md",
     "Polymath Note Hub/Notes/MATH 338 - A Simple Model.md",
+    "Polymath Note Hub/Notes/ACM SISSGRAPH Community Management.md",
+    "Polymath Note Hub/Notes/ACM SIGGRAPH LinkedIn Operations.md",
     "Polymath Note Hub/Notes/MATH 338 - Categorical Variables.md",
+    "Polymath Note Hub/Notes/VGDC - Portfolio Review.md",
+    "Polymath Note Hub/Multi-Media/Entity Diagram.svg",
     "Polymath Note Hub/Notes/MATH 338 - Explaining Variation.md",
     "Polymath Note Hub/Notes/MATH 338 - Examining Distributions.md",
     "Polymath Note Hub/Notes/MATH 338 - Welcome To Statistics.md",
@@ -213,14 +233,7 @@
     "Polymath Note Hub/Notes/CPSC 386 - The Unity Editor.md",
     "Polymath Note Hub/Notes/CPSC 386 - Time Scale And Other Functions.md",
     "Polymath Note Hub/Notes/CPSC 386 - Unity Development AI Exploration.md",
-    "Polymath Note Hub/Notes/CPSC 386 - Introduction To Game Design.md",
-    "Polymath Note Hub/Notes/CPSC 223P - Data Structures.md",
-    "Polymath Note Hub/Notes/CPSC 223P - More On Data.md",
-    "Polymath Note Hub/Notes/MATH 338 - New Examining Distributions.md",
-    "Polymath Note Hub/Notes/Previous Note Format/JUNK/VLPO.md",
     "Polymath Note Hub/Notes/Untitled.base",
-    "Polymath Note Hub/Notes/Using Metricool And Buffer.md",
-    "Polymath Note Hub/Notes/CPSC 332 - Data Modeling Using the Entity-Relationship (ER) Mode.md",
     "Polymath Note Hub/Notes/More On ER Diagrams.svg",
     "Polymath Note Hub/Notes/Previous Note Format/Screenshot 2025-12-08 101425.png",
     "Polymath Note Hub/Notes/Previous Note Format/Screenshot 2025-12-14 213724.png",
@@ -230,7 +243,6 @@
     "Polymath Note Hub/Notes/Previous Note Format/Screenshot 2025-12-08 102632.png",
     "Polymath Note Hub/Notes/Previous Note Format/Screenshot 2025-12-08 102504.png",
     "Polymath Note Hub/Notes/Previous Note Format/Screenshot 2025-12-08 102449.png",
-    "Polymath Note Hub/Notes/Previous Note Format/Screenshot 2025-12-08 101806.png",
     "Polymath Note Hub/Notes/Previous Note Format/CH22.pptx",
     "Polymath Note Hub/Notes/Previous Note Format/Ch 11 Sleep Disorders.docx",
     "Polymath Note Hub/Notes/Previous Note Format/JUNK/Untitled.canvas",
