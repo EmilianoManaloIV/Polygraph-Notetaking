@@ -70,3 +70,4 @@ ___
 * Not also known as the **average**, its often regarded the balancing point between **residuals (errors)** above and below it.
 $$\sum\text{Deviations From Mean} = 0$$
 * Median is robust, mean is sensitive.
+---
