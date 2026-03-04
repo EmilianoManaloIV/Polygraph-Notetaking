@@ -40,8 +40,15 @@ someDataFrame$someDataAttribute <- predict(some_model)
 ---
 ## Generating Predicted Data
 * We are often interested in the **residual** or error of a model.
-$$\text{Residual} = \text{Mean} - \text{Actual}$$
+$$\text{Residual} = \text{Data} - \text{Mean}$$
+$$\text{Data} = \text{Mean} + \text{Error}$$
 ```R
 #How to calculate a residual
-someDataFrame$residual = someDataFrame$someMean - someDataFrame$actualValue
+someDataFrame$residual = someDataFrame$someActualValue - someDataFrame$someMean 
 ```
+---
+## Important Properties Of Residuals
+* **Positive Residuals:** Data point is above the mean
+* **Negative Residuals:** Below the mean
+* **The sum of all residuals:** Will always be 0
+* **The Shape Of Residuals:** Will always represent the original data by the values are shifted.
