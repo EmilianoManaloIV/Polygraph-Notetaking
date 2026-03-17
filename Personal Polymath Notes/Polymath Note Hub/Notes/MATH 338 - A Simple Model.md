@@ -71,3 +71,51 @@ ___
 $$\sum\text{Deviations From Mean} = 0$$
 * Median is robust, mean is sensitive.
 ---
+## Venturing Into The World Of Mathematical Notation
+* We use mathematical notation to define our calculations, thus, we can use mathematical notation to represent statistical operations.
+$$\text{Mean}=\frac{{\sum y_{i}}}{n}$$
+$$0 ={\sum Y_{i}-y}$$
+$$y_{1}*y_{2}*y_{3}\dots*y_{n}=\prod y_{i}$$
+
+* We can think of mathematical notation as **recipe** (operations that yield a result) and a **concept view** that represents the relationships between numbers.
+---
+## DATA = MODEL + ERROR Notation
+* A sample model is represented by:
+$$Y_{i}=b_{0}+e_{i}$$
+$$b_{0}= \text{MODEL}$$
+$$e_{i}= \text{ERROR}$$
+* A population model is represented by:
+$$Y_{i}=\beta_{0}+\epsilon$$
+___
+## General Linear Model (GLM)
+* Thus we can use a model to represent a model, such as Y bar is a representation of a mean
+$$\bar{Y}=\frac{{\sum Y_{i}}}{n}$$
+---
+## Statistics VS Parameters
+* **Statistics:** Its a calculation, from a sample, an estimator for a parameter.
+* **Parameter:** From a population, estimated, and often unknown.
+---
+## Summarizing Where We Are
+* **Sample Model:**
+$$\text{Outcome Variable}=\text{Sample Model}+\text{Error}$$
+$$Y_{i}=\bar{Y}+e_{i}$$
+$$Y_{i}=b_{0}+e_{i}$$
+* **Population Model:**
+$$\text{Outcome Variable}=\text{Population Model}+\text{Error}$$
+---
+## R Notation
+* We use LaTeX to express mathematical languages
+$$Y_{i}=\hat{Y}_{i}+e_{i}$$
+$$Y_{i}=b_{0}+e_{i}$$
+$$Y_{i}=\beta_{0}+\epsilon_{i}$$
+---
+## Class Lab
+$$b_{0}$$
+
+$$Y_{i}=2.7 +e_{i}$$
+$$\beta_{0}=2.7$$
+$$Y_{i}=2.7+\epsilon_{i}$$
+$$b_{0}=52$$
+
+$$e_{i}$$
+$$Y_{i}=52+e_{i}$$

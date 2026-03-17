@@ -60,8 +60,27 @@ ___
 ----
 ## Key Constraints
 * Tuples cannot have the same values of each other.
-* **SuperKey:** Any attribute that identifies a row or entry absolutely.
+* **SuperKey:** Any attribute that identifies a row or entry absolutely by having a tuple of variables.
+	* Always includes a candidate key of some degree
 ---
 ## Candidate Key
-* We often have a **primary key** that is utilized in most cases, however there is other protentional keys, known as a **candidate key**.
-* 
+* We often have a **primary key** that is utilized in most cases, however there is other protentional keys, known as a **candidate key** that can be used as a primary key when needed.
+---
+## Foreign Key
+* As noted, we used **primary keys** as identify a row, however, sometimes we want to link relationships from one table to another; noted as a **foreign key**.
+* A **foreign key** often connects to a **primary key or candidate key** in another table.
+* Parent and child relationship is reversed within two tables.
+* There should be checks in place so that a referential integrity constraints doesn't occur.
+$$\text{FK}(R_{1})\to\text{PK}(R_{2})$$
+* We can now define what technically occurs with errors:
+	* **PK:** Key constraints, Entity Referential
+	* **FK:** Referential error
+___
+## Dealing With Relationships
+* Creating compositions create more specific relationships and can take others into primary keys.
+* If you remove certain keys, it may cause a **dangling reference**
+* **Update Operations:** May cause domain, key, and referential constraint.
+---
+## Dealing With Constraint Violations
+* **Restrict:** No, you're not allowed to do that.
+* **Cascade/Propagate:** Deletes all chained keys of a given table or tables, or change everything like a refactor, or insert NULL property.
