@@ -91,3 +91,19 @@ var(dataset$varialbe)
 var(dataset$variable)*(n-1)
 supernova(model)
 ```
+---
+## Z-Score
+$$z=\frac{{Y_{i}-\bar{Y}}}{S}$$
+* Details how much standard deviations the value is from.
+---
+## Interpreting And Using Z-Scores
+* **Standard Deviation:** Describes the spread of the distribution
+* **Z-Score:** Describes the position of a single observation
+	* Z = 0: At the mean
+	* Z < 0: Below the mean
+	* Z > 0: Above the mean
+* Z-scores can standardize over various normal distribution.
+---
+## Using Data As A Probability Model
+* We use **proportions** to utilize the percentage of the value we want.
+* This is often used with a combination of Boolean values and proportions.
