@@ -107,3 +107,34 @@ $$z=\frac{{Y_{i}-\bar{Y}}}{S}$$
 ## Using Data As A Probability Model
 * We use **proportions** to utilize the percentage of the value we want.
 * This is often used with a combination of Boolean values and proportions.
+---
+## Modeling Error With Normal Distribution
+* When sample size is small, the distribution can look irregular or jagged; and we really on theoretical probability to get a more accurate distribution of values.
+---
+## What Is A Theoretical Probability Distribution
+* A mathematical model that attempts to replicate the expected behavior of the population.
+	* **Uniform:** All values are the same
+	* **Normal Distribution:** A bell curve
+---
+## Normal Distribution
+* The most common for modeling any degree of error:
+	* **Properties:** Bell-Shaped, symmetrical, clusters near the mean, fewer observation in the tails.
+	* **Parameters:** Standard deviation and mean
+---
+## Aggregation
+* Multiple independent variables combine to influence a certain income; each independent factor tends to become normal.
+---
+## Using The Normal Model To Make Predictions
+```R
+#Get the probabilites of a distribution
+xpnorm()
+```
+* **Standard Normal Distribution:** $Z, x~\text{Normal}(mean=\mu,sd=5)$
+---
+## Z-Scores Standardize Different Distributions
+* **Z-Scores** standardize the normal the distribution.
+* **Empirical Rule:** $68\%=-1\sigma\leq z\leq \sigma$,$95\%=-2\sigma\leq z\leq{2a}$ $99.7\%=-3\sigma\leq z\leq{3\sigma}$
+---
+## What Counts As Unlikely
+* When its outside of the distribution of what is considered within the range.
+* 
