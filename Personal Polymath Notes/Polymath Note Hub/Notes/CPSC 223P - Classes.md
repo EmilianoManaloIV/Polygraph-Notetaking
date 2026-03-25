@@ -78,5 +78,31 @@ class DerivedClassName(packageName.BaseClassName)
 ```Python
 #You can check how instants are related to classes
 isinstance(instance, class)
+#Or how classes are related to each other
 issubclass(childClass, parentClass)
 ```
+* All of these things are based off of hierarchy.
+---
+## Overriding Methods
+* You can override methods by using the same name when deriving another class, have to use the same amount of arguments.
+---
+## Multiple Inheritance
+* You can do multiple inheritance for multiple classes
+```Python
+class DerivedClassName(Base1,Base2,Base3)
+	<statement-1>
+	...
+	<statement-N>
+```
+* Note is reads **LEFT** to **RIGHT** (DOWN-UP, depth-first)
+* Skips if there is an overlap
+---
+## Private Variables
+* We use notation to set private variables with _ and __
+	* __ actually changes the variables name at runtime, this is called name mangling
+```Python
+__variableName
+#This turns into at runtime:
+_className__variableName
+```
+* You can do the same with functions, by instantiating the functions.
