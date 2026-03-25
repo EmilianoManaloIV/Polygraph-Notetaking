@@ -11,13 +11,52 @@
             "id": "3f3a0d812ce9fbb0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Polymath Note Hub/Notes/MATH 338 - Quantifying Error.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "MATH 338 - Quantifying Error"
+            }
+          },
+          {
+            "id": "3fc0fabfaf823316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polymath Note Hub/Notes/CPSC 223P - Classes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CPSC 223P - Classes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,19 +229,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3f3a0d812ce9fbb0",
+  "active": "a99fb87d0d100119",
   "lastOpenFiles": [
+    "Polymath Note Hub/Notes/MATH 338 - Adding More Explanatory Variables To The Model.md",
+    "Polymath Note Hub/Notes/MATH 338 - Adding An Explanatory Variable To The Model.md",
+    "Polymath Note Hub/Notes/MATH 338 - Quantifying Error.md",
     "Polymath Note Hub/Notes/CPSC 332 - Basic SQL.md",
     "Polymath Note Hub/Notes/CPSC 332 - SQL Complex Queries.md",
     "Polymath Note Hub/Notes/CPSC 223P - Classes.md",
     "Polymath Note Hub/Notes/CPSC 386 - Rules And Fiction.md",
     "Polymath Note Hub/Notes/CPSC 386 - State Of The Art.md",
     "Polymath Note Hub/Notes/CPSC 223P - Errors And Exceptions.md",
-    "Polymath Note Hub/Notes/MATH 338 - Quantifying Error.md",
     "Polymath Note Hub/Notes/CPSC 386 - Procedural Generation.md",
     "Polymath Note Hub/Notes/CPSC 223P - Input And Output.md",
     "Polymath Note Hub/Notes/CPSC 386 - Project 3 And Midterm.md",
-    "Polymath Note Hub/Notes/MATH 338 - Adding An Explanatory Variable To The Model.md",
     "Polymath Note Hub/Notes/MATH 338 - A Simple Model.md",
     "Polymath Note Hub/Notes/MATH 338 - Categorical Variables.md",
     "Polymath Note Hub/Notes/MATH 338 - New Examining Distributions.md",
@@ -217,7 +257,6 @@
     "Polymath Note Hub/Notes/Previous Note Format/CSUF MATH170B Linear Algebra/MATH170B 1.1 Practice.md",
     "Polymath Note Hub/Notes/Previous Note Format/CSUF MATH170B Linear Algebra/MATH170B 1.1 Continued.md",
     "Polymath Note Hub/Notes/Previous Note Format/CSUF MATH170B Linear Algebra/MATH170B 4.1 Vectors & Lines.md",
-    "Polymath Note Hub/Notes/Previous Note Format/CSUF MATH170B Linear Algebra/MATH170B 4.3 More On Cross Product.md",
     "Polymath Note Hub/Multi-Media/Entity Diagram.svg",
     "Polymath Note Hub/Multi-Media/Screenshot 2026-03-03 171918.png",
     "Polymath Note Hub/Notes/Untitled.base",

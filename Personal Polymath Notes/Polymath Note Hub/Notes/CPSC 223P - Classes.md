@@ -63,3 +63,20 @@ someVar = myClass():
 ```
 * Variables can be created at runtime, without prior instantiation.
 * You can extract functions straight from a an object if needed by assigning the function reference to a variable.
+---
+## Inheritance
+```Python
+#This is how you create your own derived class
+class DerivedClassName(BaseClassName):
+#You can do the same with modules
+class DerivedClassName(packageName.BaseClassName)
+```
+* Looks for functions in parent class if not found in their parent function.
+* You can use super().functionName to call the function in the parent class
+---
+## All Classes Derived From Object
+```Python
+#You can check how instants are related to classes
+isinstance(instance, class)
+issubclass(childClass, parentClass)
+```
