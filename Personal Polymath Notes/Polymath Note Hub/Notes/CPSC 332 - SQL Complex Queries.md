@@ -86,4 +86,14 @@ GROUP BY CATEGORICALATTRIBUTE
 SELECT CATEGORICALATTRIBUTE, COUNT(*)
 FROM TABLE1
 GROUP BY CATEGORICALATTRIBUTE
+--Having includes or exclusive 
+HAVES
+--ASSERTIONS: Create a rule that is applied to multiple tables
+--TRIGGER: Create custom instances when something occurs
+--VIEWS: Shows certain part of data, such as past query
+CREATE VIEW NAMEOFTEMPVIEW
+...
+...
+...
+-- Query Modification
 ```
