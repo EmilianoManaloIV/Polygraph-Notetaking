@@ -122,4 +122,3 @@ WHERE A.PRIMARYKEY = B.FOREIGNKEY
 * You can check similarity
 	* LIKE "__0__2910"
 * Can order things using **ORDER BY**
-*
