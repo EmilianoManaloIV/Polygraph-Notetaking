@@ -120,3 +120,15 @@ $$\text{SS Total}=\text{SS Model}+\text{SS Error}$$
 supernova(modelName)
 ```
 * The error will always be equal to or less than the empty model! Thus gauging how it influences variation or not.
+---
+## Partitioning Sum Of Squares Into Model And Error
+$$\text{SS Total}=\text{SS Model}+\text{SS Error}$$
+* **SS Total**: The overall variability
+* **SS Model**: Variability explained by the model
+* **SS Error**: Variability that cannot be explained
+---
+## Calculating PRE
+$$\text{Coefficient Of Determination}=\text{Regression}=R^2=\text{PRE}=\frac{\text{SSM}}{\text{SST}}$$
+* When PRE is around 10% its considerate moderate variability
+* When PRE is around 25% or more, it provides higher variability
+* 
