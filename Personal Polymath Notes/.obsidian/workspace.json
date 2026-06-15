@@ -8,127 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f3a0d812ce9fbb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polymath Note Hub/Notes/MATH 338 - Quantifying Error.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MATH 338 - Quantifying Error"
-            }
-          },
-          {
-            "id": "3fc0fabfaf823316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polymath Note Hub/Notes/CPSC 332 - SQL Complex Queries.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CPSC 332 - SQL Complex Queries"
-            }
-          },
-          {
-            "id": "3e7faa5f7c2e1ab5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polymath Note Hub/Notes/MATH 338 - Adding More Explanatory Variables To The Model.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MATH 338 - Adding More Explanatory Variables To The Model"
-            }
-          },
-          {
-            "id": "1fcd2af74e4a4d48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polymath Note Hub/Notes/MATH 338 - Multiplayer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MATH 338 - Multiplayer"
-            }
-          },
-          {
             "id": "4f25d2671f6b58e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Polymath Note Hub/Notes/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Polymath Note Hub/Personal Project Notes/Game Engine Architecture_ Volume I Foundations and Core Engine SystemsJason Gregory2026 April 22 CRC Press115722394 libgenli Copy.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "Game Engine Architecture_ Volume I Foundations and Core Engine SystemsJason Gregory2026 April 22 CRC Press115722394 libgenli Copy"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -274,8 +165,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -297,23 +188,30 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "4f25d2671f6b58e3",
   "lastOpenFiles": [
+    "Polymath Note Hub/Personal Project Notes/Untitled.md",
+    "Polymath Note Hub/Personal Project Notes/Game Engine Architecture_ Volume I Foundations and Core Engine SystemsJason Gregory2026 April 22 CRC Press115722394 libgenli Copy.pdf",
+    "Polymath Note Hub/Notes/MATH 338 - New Examining Distributions.md",
+    "Polymath Note Hub/Personal Project Notes",
+    "Untitled",
     "Polymath Note Hub/Notes/MATH 338 - Multiplayer.md",
-    "Polymath Note Hub/Notes/Untitled.md",
     "Polymath Note Hub/Notes/MATH 338 - Adding More Explanatory Variables To The Model.md",
-    "Polymath Note Hub/Notes/CPSC 332 - Relational Database Design By ER-To-Relational Mapping.md",
-    "Polymath Note Hub/Notes/MATH 338 - Categorical Variables.md",
-    "Polymath Note Hub/Notes/MATH 338 - Explaining Variation.md",
-    "Polymath Note Hub/Notes/MATH 338 - Quantifying Error.md",
     "Polymath Note Hub/Notes/CPSC 332 - SQL Complex Queries.md",
+    "Polymath Note Hub/Notes/MATH 338 - Quantifying Error.md",
+    "Polymath Note Hub/Notes/MATH 338 - Adding An Explanatory Variable To The Model.md",
+    "Polymath Note Hub/Notes/MATH 338 - Categorical Variables.md",
+    "Polymath Note Hub/Notes/CSPC 386 - More Complex Unity Systems.md",
+    "Polymath Note Hub/Multi-Media/Entity Diagram.svg",
+    "Polymath Note Hub/Multi-Media/Screenshot 2026-03-03 171918.png",
+    "Polymath Note Hub/Notes/CPSC 332 - Relational Database Design By ER-To-Relational Mapping.md",
+    "Polymath Note Hub/Notes/MATH 338 - Explaining Variation.md",
     "Polymath Note Hub/Notes/CPSC 332 - Basic SQL.md",
     "Polymath Note Hub/Notes/CPSC 223P - Classes.md",
-    "Polymath Note Hub/Notes/MATH 338 - Adding An Explanatory Variable To The Model.md",
     "Polymath Note Hub/Notes/CPSC 386 - Rules And Fiction.md",
     "Polymath Note Hub/Notes/CPSC 386 - State Of The Art.md",
     "Polymath Note Hub/Notes/CPSC 223P - Errors And Exceptions.md",
@@ -321,16 +219,10 @@
     "Polymath Note Hub/Notes/CPSC 223P - Input And Output.md",
     "Polymath Note Hub/Notes/CPSC 386 - Project 3 And Midterm.md",
     "Polymath Note Hub/Notes/MATH 338 - A Simple Model.md",
-    "Polymath Note Hub/Notes/MATH 338 - New Examining Distributions.md",
     "Polymath Note Hub/Notes/MATH 338 - Examining Distributions.md",
     "Polymath Note Hub/Notes/MATH 338 - Understanding Data.md",
     "Polymath Note Hub/Notes/MATH 338 - Welcome To Statistics.md",
     "Polymath Note Hub/Notes/MATH 338 - Statistics For Natural Sciences.md",
-    "Polymath Note Hub/Notes/CPSC 332 - Relational Model And Database Constraints.md",
-    "Polymath Note Hub/Notes/CPSC 386 - Time Scale And Other Functions.md",
-    "Polymath Note Hub/Notes/Previous Note Format/CSUF MATH170B Linear Algebra/MATH170B 1.1 Solutions And Elementary Operations.md",
-    "Polymath Note Hub/Multi-Media/Entity Diagram.svg",
-    "Polymath Note Hub/Multi-Media/Screenshot 2026-03-03 171918.png",
     "Polymath Note Hub/Notes/Untitled.base",
     "Polymath Note Hub/Notes/More On ER Diagrams.svg",
     "Polymath Note Hub/Notes/Previous Note Format/Screenshot 2025-12-08 101425.png",
@@ -346,9 +238,6 @@
     "Polymath Note Hub/Notes/Previous Note Format/JUNK",
     "Polymath Note Hub/Notes/Previous Note Format/Images & Diagrams/Untitled.base",
     "Polymath Note Hub/Notes/Previous Note Format/Images & Diagrams/Untitled 1.base",
-    "Polymath Note Hub/Notes/Previous Note Format/Images & Diagrams/007__01__CH08_Ch09_final_10082025.pdf",
-    "Polymath Note Hub/Notes/Previous Note Format/Images & Diagrams/007__01__CH08_Ch09_final_10082025 1.pdf",
-    "Polymath Note Hub/Notes/Previous Note Format/Images & Diagrams/005__01__CH05_Ch22_COMBINED.pdf",
-    "Polymath Note Hub/Notes/Previous Note Format/Images & Diagrams/005__01__CH05_Ch22_COMBINED (1).pdf"
+    "Polymath Note Hub/Notes/Previous Note Format/Images & Diagrams/007__01__CH08_Ch09_final_10082025.pdf"
   ]
 }
